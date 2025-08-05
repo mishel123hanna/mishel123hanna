@@ -17,8 +17,7 @@ i'm IT Engineer working as Python Backend Developer<br>
 
 ### 🧠 Quote I Live By
 
-> “The best programmers are not marginally better than others, they are an order of magnitude better, because they stay curious, write code that lasts, and build systems that evolve.”  
-> — *Grady Booch*
+> **"Like chess, back-end development is a game of invisible mastery — every move in code must anticipate the future, control complexity, and quietly support the entire system."**
 ---
 [![](https://visitcount.itsvg.in/api?id=mishel123hanna&icon=0&color=0)](https://visitcount.itsvg.in)
 
