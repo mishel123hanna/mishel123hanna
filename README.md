@@ -15,9 +15,10 @@ i'm IT Engineer working as Python Backend Developer<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mishel123hanna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧠 Quote I Live By
 
+> “The best programmers are not marginally better than others, they are an order of magnitude better, because they stay curious, write code that lasts, and build systems that evolve.”  
+> — *Grady Booch*
 ---
 [![](https://visitcount.itsvg.in/api?id=mishel123hanna&icon=0&color=0)](https://visitcount.itsvg.in)
 
