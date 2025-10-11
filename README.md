@@ -51,13 +51,16 @@ I'm actively seeking an opportunity to join a collaborative engineering team and
 
 ---
 
-## 📫 Let's Connect
+## 📫 **Let’s Connect**
 
-I'm actively seeking **junior/mid-level backend developer positions** where I can contribute my skills and continue learning from experienced teams.
+I’m currently open to **junior and mid-level backend developer opportunities** — especially roles where I can grow my expertise in scalable systems, API design, and cloud deployment.  
+If you’re looking for a motivated developer who loves solving backend challenges, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mishel-hanna)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishelhanna3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishel-hanna)
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishelhanna3@gmail.com)
 
+
+> Let’s build something awesome together 🚀
 ---
 
 ## 💭 Development Philosophy
