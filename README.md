@@ -52,13 +52,13 @@ I'm an IT Engineer specializing in **Python backend development**, passionate ab
 I'm actively seeking **junior/mid-level backend developer positions** where I can contribute my skills and continue learning from experienced teams.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mishel-hanna)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishelhanna3@gmail.com)
 
 ---
 
 ## 💭 Development Philosophy
 
-> *"Quality backend code is invisible to users but essential to everything. Like a strong foundation, it quietly supports the entire system while enabling endless possibilities."*
+> *"Like chess, back-end development is a game of invisible mastery — every move in code must anticipate the future, control complexity, and quietly support the entire system."*
 
 I believe in writing **clean, documented, and testable code** that other developers can understand and build upon. Every project is an opportunity to learn and improve.
 
