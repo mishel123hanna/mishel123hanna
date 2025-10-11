@@ -2,7 +2,11 @@
 
 ### Python Backend Developer | Building Scalable Solutions
 
-I'm an IT Engineer specializing in **Python backend development**, passionate about creating efficient, maintainable server-side applications. Currently seeking opportunities to contribute to innovative teams and grow as a professional developer.
+I'm an IT Engineer specializing in **Python backend development**, passionate about building scalable, efficient, and maintainable systems.
+I love turning complex ideas into reliable backend logic — from designing APIs to managing databases and cloud deployments.
+
+Currently, I’m sharpening my skills by building personal projects and contributing to open-source code to strengthen my backend foundation and problem-solving mindset.
+I'm actively seeking an opportunity to join a collaborative engineering team and grow as a professional developer.
 
 ---
 
