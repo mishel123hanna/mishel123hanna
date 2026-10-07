@@ -124,6 +124,17 @@ Some of the engineering problems and solutions I've worked on include:
   - organization-aware routing
   - authenticated API communication
 
+### 🎥 Provider-Agnostic Meeting Platform
+
+- Designed and implemented a **Meeting Service using NestJS** with a provider-agnostic architecture.
+- Built a **Provider Registry with Adapter/Strategy patterns** to separate conferencing-provider integrations from the core meeting domain.
+- Integrated **Zoom** and **BigBlueButton (BBB)** behind a common provider interface.
+- Designed the service so new meeting providers can be added with minimal changes to the existing meeting business logic.
+- Normalized provider-specific behavior and responses into a consistent internal meeting model.
+- Integrated the Meeting Service with the **React / TypeScript frontend**.
+- Integrated the **Zoom Meeting SDK for Web** to embed Zoom meetings directly inside the application instead of redirecting users to the external Zoom client.
+- Worked across the complete feature lifecycle, including backend architecture, provider APIs, frontend integration, embedded meeting experience, and meeting workflows.
+
 ### 🏗️ System Design & Architecture
 
 - Participated in architecture and design decisions around:
