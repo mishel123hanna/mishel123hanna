@@ -1,86 +1,161 @@
-# Hi there, I'm Mishel Hanna 👋
+# Hi, I'm Mishel Hanna 👋
 
-### Python Backend Developer | Building Scalable Solutions
+### Full Stack Software Engineer | Backend, Authentication, Security & Scalable Systems
 
-I'm an IT Engineer specializing in **Python backend development**, passionate about building scalable, efficient, and maintainable systems.
-I love turning complex ideas into reliable backend logic — from designing APIs to managing databases and cloud deployments.
+I'm a **Full Stack Software Engineer** focused on building secure, scalable, and maintainable web platforms.
 
-Currently, I’m sharpening my skills by building personal projects and contributing to open-source code to strengthen my backend foundation and problem-solving mindset.
-I'm actively seeking an opportunity to join a collaborative engineering team and grow as a professional developer.
+My strongest experience is in **backend engineering, authentication and authorization, multi-tenant systems, APIs, and distributed application architecture**, while also working with modern frontend applications using **React and TypeScript**.
 
----
-
-## 🚀 What I Do
-
-- **Backend Development**: Building RESTful APIs and server-side logic using Django, FastAPI, and Flask
-- **Database Management**: Working with both SQL (PostgreSQL, MySQL, MariaDB) and NoSQL (MongoDB, Redis) databases
-- **API Integration**: Designing and consuming APIs with proper documentation using Swagger/Postman
-- **Cloud & Deployment**: Deploying applications on Google Cloud, Render, and Vercel with Docker containerization
-- **Real-time Systems**: Implementing WebSocket connections and real-time features with Socket.io
+I enjoy solving problems around identity, security, system design, service integration, and building reliable software that can evolve as products grow.
 
 ---
 
-## 💼 Technical Skills
+## 🚀 What I Work On
 
-**Backend Frameworks & Languages**
-- Python (Django, FastAPI, Flask)
+- 🔐 **Authentication & Identity**
+  - OAuth 2.0
+  - OpenID Connect (OIDC)
+  - Single Sign-On (SSO)
+  - Multi-Factor Authentication (MFA)
+  - Passkeys / WebAuthn
+  - Session and token management
 
-**Databases**
-- PostgreSQL, MySQL, MariaDB, SQLite
-- MongoDB, Redis, Neo4j
-- Firebase, Supabase
+- 🛡️ **Authorization & Security**
+  - RBAC / ABAC authorization models
+  - Policy-based access control
+  - Risk-based authentication
+  - Tenant-aware security policies
+  - Secure API design
 
-**DevOps & Tools**
-- Docker, Nginx, Gunicorn
-- Git, GitHub, GitLab
-- Elasticsearch, Jira, Trello
+- ⚙️ **Backend Engineering**
+  - REST APIs and service integrations
+  - Django / Django REST Framework
+  - FastAPI and Flask
+  - Redis-backed systems
+  - Background processing
+  - Database design and optimization
 
-**Additional**
-- React (Frontend basics)
-- Qt (Desktop applications)
-- Pandas (Data manipulation)
+- 🏗️ **System Architecture**
+  - Microservices
+  - Multi-tenant platforms
+  - Distributed authentication
+  - Service-to-service communication
+  - Scalable system design
+
+- 💻 **Frontend Development**
+  - React
+  - TypeScript / JavaScript
+  - Authentication flows
+  - API integration
+  - User account and security experiences
+
+- 🚀 **Deployment & Infrastructure**
+  - Docker
+  - Nginx
+  - Gunicorn
+  - Azure
+  - CI/CD
+  - Linux environments
 
 ---
 
-## 🎯 Currently Working On
+## 🛠️ Tech Stack
 
-- Deepening my expertise in **microservices architecture**
-- Building production-ready APIs with advanced authentication and authorization
-- Contributing to open-source projects to sharpen my skills
-- Expanding my knowledge in **system design** and **scalable backend solutions**
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📫 **Let’s Connect**
+## 🔐 Engineering Interests
 
-I’m currently open to **junior and mid-level backend developer opportunities** — especially roles where I can grow my expertise in scalable systems, API design, and cloud deployment.  
-If you’re looking for a motivated developer who loves solving backend challenges, feel free to reach out!
+I'm particularly interested in:
+
+- Identity and Access Management
+- Authentication and authorization architecture
+- OAuth 2.0 and OpenID Connect
+- Application security
+- Multi-tenant SaaS architecture
+- Microservices
+- Distributed systems
+- API architecture
+- System design
+- Backend performance and reliability
+
+---
+
+## 🌱 Currently Exploring
+
+I'm continuously improving my knowledge in:
+
+- Advanced system design
+- Distributed systems
+- Cloud architecture
+- Application security
+- High-availability backend systems
+- Open-source development
+
+---
+
+## 💭 Engineering Philosophy
+
+> *"Like chess, backend engineering is a game of invisible mastery — every move in code should anticipate the future, control complexity, and quietly support the entire system."*
+
+I believe good software should be:
+
+**Clean • Secure • Testable • Maintainable • Scalable**
+
+I care not only about making software work, but about designing systems that remain understandable and reliable as they grow.
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with engineers, contributing to interesting projects, and exploring opportunities to build secure and scalable software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishel-hanna)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishelhanna3@gmail.com)
-
-
-> Let’s build something awesome together 🚀
----
-
-## 💭 Development Philosophy
-
-> *"Like chess, back-end development is a game of invisible mastery — every move in code must anticipate the future, control complexity, and quietly support the entire system."*
-
-I believe in writing **clean, documented, and testable code** that other developers can understand and build upon. Every project is an opportunity to learn and improve.
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishel123hanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishel123hanna&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishel123hanna&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishel123hanna&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-<sub>💡 **Open to opportunities** | Ready to bring dedication, problem-solving skills, and eagerness to learn to your team</sub>
+<div align="center">
+
+### Building secure systems. Solving complex problems. Always learning. 🚀
+
+</div>
